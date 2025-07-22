@@ -29,5 +29,5 @@
 ## 💼 Want This for Your Business?
 I can customize and deploy this AI Assistant for your café or small business.  
 
-📧 Email me: **youremail@gmail.com**  
-🌐 Hire me on Fiverr: [Your Fiverr Link](https://fiverr.com/your-profile)  
+📧 Email me: rochie7575@gmail.com
+🌐 Hire me on Fiverr:   
