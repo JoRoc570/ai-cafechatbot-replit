@@ -16,8 +16,8 @@
 ---
 
 ## 📸 Demo Gallery
-![Chatbot Screenshot](screenshot1.png)  
-![Dark Mode Screenshot](screenshot2.png)  
+![Chatbot Screenshot](Screenshot1.png)  
+![Dark Mode Screenshot](Screenshot2.png)  
 
 ---
 
